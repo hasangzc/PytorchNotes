@@ -1,0 +1,9 @@
+.DS_Store
+*.gz
+*.zip
+*.jpeg
+*.pyc
+*-ubyte
+*.pth
+*/data
+*-checkpoint.ipynb
